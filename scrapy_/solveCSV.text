@@ -1,0 +1,2 @@
+windows 輸出.csv格式會有空格 因此要修改scrapy model裡的exporters.py
+encoding = self.encoding, newline=""
